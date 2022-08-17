@@ -1,4 +1,5 @@
 tamilnadu
 kerala 
 andhra
+karnataka
 odissa
